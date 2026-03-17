@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "price": 49,
+      "tagline": "Kickstart your digital presence.",
+      "features": ["3 Pages Design", "Standard SEO", "1 Month Support"],
+      "isPopular": false
+    },
+    {
+      "id": 2,
+      "name": "Growth",
+      "price": 149,
+      "tagline": "Best for scaling businesses.",
+      "features": ["10 Pages Design", "Advanced SEO", "3 Months Support", "Speed Optimization"],
+      "isPopular": true
+    },
+    {
+      "id": 3,
+      "name": "Elite",
+      "price": 299,
+      "tagline": "Full-service agency experience.",
+      "features": ["Unlimited Pages", "Custom UI/UX", "Priority Support", "E-commerce Ready", "Marketing Strategy"],
+      "isPopular": false
+    }
+  ]
+}
